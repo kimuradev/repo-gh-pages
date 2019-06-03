@@ -1,5 +1,5 @@
 ---
-title: Index
+title: pafatbn forever!
 layout: template
 filename: index
 ---
